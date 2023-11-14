@@ -14,7 +14,6 @@ Join us on our mission to innovate, collaborate, and build dreams with a touch o
 Backend Labs is dedicated to rewriting the digital experience. We embrace professional advice, providing software solutions that blend innovation and polished execution.
 
 🌐 **Connect with us:**
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-
+- [LinkedIn](https://www.linkedin.com/company/backend-labs)
+  
 #InnovateWithBackend #CodeCrafters #TechExcellence 💻✨
