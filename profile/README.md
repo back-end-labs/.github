@@ -1,6 +1,6 @@
 # Welcome to Backend Labs 🌐
 
-![logo](backendlabs.png)
+![logo](https://github.com/back-end-labs/.github/raw/main/profile/backendlabs.png)
 
 At Backend Labs, we transcend code, embodying these core values that power our success:
 
