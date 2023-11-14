@@ -1,5 +1,7 @@
 # Welcome to Backend Labs 🌐
 
+![logo](backendlabs.png)
+
 At Backend Labs, we transcend code, embodying these core values that power our success:
 
 🚀 **Innovation Hub:** Crafting solutions at the forefront of technology.
@@ -15,5 +17,6 @@ Backend Labs is dedicated to rewriting the digital experience. We embrace profes
 
 🌐 **Connect with us:**
 - [LinkedIn](https://www.linkedin.com/company/backend-labs)
-  
+
 #InnovateWithBackend #CodeCrafters #TechExcellence 💻✨
+
