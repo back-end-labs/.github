@@ -17,7 +17,7 @@ Backend Labs is dedicated to rewriting the digital experience. We embrace profes
 
 🌐 **Connect with us:**
 - [LinkedIn](https://www.linkedin.com/company/backend-labs)
-- [Mail](mailto:contact@backendlabs.click)
+- [contact@backendlabs.click](mailto:contact@backendlabs.click)
 
 #InnovateWithBackend #CodeCrafters #TechExcellence 💻✨
 
