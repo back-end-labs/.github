@@ -15,6 +15,7 @@ Welcome to Backend Labs – the convergence of innovation and implementation for
 If any of these situations resonate with your startup, reach out to us. Serious solutions await.
 
 🌐 **Connect with us:**
+- [Visit our site!](https://backendlabs.tech)
 - [LinkedIn](https://www.linkedin.com/company/backend-labs)
-- [contact@backendlabs.click](mailto:contact@backendlabs.click)
+- [contact@backendlabs.click](mailto:contact@backendlabs.tech)
 
